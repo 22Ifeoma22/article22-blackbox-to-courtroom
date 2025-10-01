@@ -1,0 +1,3 @@
+﻿risk_id,risk_statement,likelihood,impact,risk_rating,owner,mitigation
+R-001,Disparate impact across groups,Medium,High,High,RAI Officer,Threshold tuning
+R-002,Model drift due to data shift,Medium,Medium,Medium,ML Lead,Retraining + monitoring

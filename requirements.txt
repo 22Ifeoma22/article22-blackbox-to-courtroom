@@ -1,0 +1,8 @@
+﻿pandas
+numpy
+scikit-learn
+shap
+fairlearn
+dice-ml
+matplotlib
+graphviz
